@@ -3,7 +3,7 @@
 /*
 Plugin Name: Nomoji
 Description: A simple plugin that removes emoji related scripts from WordPress.
-Author URI: https://mynameistrevor.com
+Author URI: http://trevoristall.github.io
 Version: 1.0.0
 License: MIT
 */
